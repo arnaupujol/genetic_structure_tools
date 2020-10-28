@@ -2,7 +2,7 @@
 
 > Author: **Arnau Pujol, Carlos Ruiz**  
 > Year: **2020**  
-> Version: **1.0**  
+> Version: **1.1**  
 
 
 
